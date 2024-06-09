@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yamms2340/instagram.git/static/css/main.c7c283d6.css",
+    "main.js": "/yamms2340/instagram.git/static/js/main.f4a6487e.js",
+    "static/js/453.3280da6f.chunk.js": "/yamms2340/instagram.git/static/js/453.3280da6f.chunk.js",
+    "index.html": "/yamms2340/instagram.git/index.html",
+    "main.c7c283d6.css.map": "/yamms2340/instagram.git/static/css/main.c7c283d6.css.map",
+    "main.f4a6487e.js.map": "/yamms2340/instagram.git/static/js/main.f4a6487e.js.map",
+    "453.3280da6f.chunk.js.map": "/yamms2340/instagram.git/static/js/453.3280da6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7c283d6.css",
+    "static/js/main.f4a6487e.js"
+  ]
+}
