@@ -1,0 +1,33 @@
+.suggest__details{
+    display: flex;
+    flex-direction: column;
+    line-height: 1.4;
+    padding-left: 10px;
+}
+.suggestions__profile{
+    margin-top: 12px;
+    display: flex;
+    flex-direction: row;
+    width: 200px;
+    height: 50px;
+}
+.suggestions__details1{
+    color: black;
+    font-weight: 600;
+}
+.suggestions__details2{
+    font-weight: 450 ;
+    color: grey;
+}
+.suggest__follow a{
+    text-decoration: none;
+    color: rgb(35, 134, 191);
+    margin-right: 100px;
+}
+.suggestions__box{
+    display: flex;
+justify-content: space-between;
+align-items: center;
+margin-left: 50px;
+
+}

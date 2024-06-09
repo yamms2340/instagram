@@ -1,0 +1,44 @@
+.post__profile{
+    display: flex;
+    flex-direction: row;
+}
+.post__details{
+    display: flex;
+    flex-direction: column;
+}
+
+.post__profile span {
+    font-size: 12px; /* Change the font size to 16 pixels */
+}
+.post__details1{
+    font-weight: 500;
+}
+.post__follow a{
+text-decoration: none;
+color: rgb(61, 134, 207) !important; /* Change the color with higher specificity */
+font-weight: 500;
+}
+.post__body img{
+height: 580px;
+width: 500px;
+}
+.post{
+    margin-left: 170px;
+}
+.post__header{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.post__footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 13px;
+}
+.post__footer__left{
+display: flex;
+
+}
+.instagram-post{
+    margin-left: 170px;
+}

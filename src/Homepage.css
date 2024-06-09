@@ -1,0 +1,13 @@
+.homepage{
+    display: flex;
+    flex-direction: row;
+}
+.nav{
+    flex:17;
+}
+.linemiddle{
+    flex:2;
+}
+.timeline{
+    flex:81;
+}

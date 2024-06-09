@@ -1,0 +1,53 @@
+
+.sidenav{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: fixed;
+    z-index: 1;
+
+}
+h2{
+   margin:40px 2px 50px 30px;
+    line-height: 10px;
+}
+.sidenav_buttons{
+    display: flex;
+    flex-direction: column;
+    padding: 3px;
+}
+.side_button{
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: start;
+color:black;
+border:0;
+padding: 20px;
+margin:0px 5px 0px 5px;
+height: 55px;
+object-fit: cover;
+background-color: white;
+transition: all 0.3s;
+}
+.button-span{
+margin-left: 50px;
+}
+.button-icon{
+    height: 30px;
+    width: 30px;
+}
+
+.side_button:hover{
+    cursor: pointer;
+background-color: #f0f0f0;
+border-radius: 15px;
+font-size: 15px;
+font-weight: 600;
+transform: scale(1.1); /* Increase the size on hover */
+
+}
+.more{
+    position: fixed;
+    bottom: 15px;
+}
